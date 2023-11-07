@@ -22,6 +22,6 @@ function calculate() {
 }
 
 function clear() {
-  expression = '';
+  expression = '' ;
   document.getElementById('result').value = '';
 }
